@@ -1,0 +1,8 @@
+name: Ianus
+version: '${project.version}'
+main: ru.ancap.ianus.plugin.Ianus
+api-version: 1.19
+prefix: Ianus
+authors: [ PukPukov ]
+description: Plugin for changing view distance per player permission
+website: vk.com/vovanchikputin

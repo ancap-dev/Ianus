@@ -1,0 +1,29 @@
+view-settings:
+  default:
+    per-world: true
+    default:
+      view: 3
+      simulation: 2
+    world_the_end:
+      view: 6
+      simulation: 2
+  ianus.view-distance.normal:
+    per-world: true
+    default:
+      view: 5
+      simulation: 2
+    world_the_end:
+      view: 7
+      simulation: 2
+  ianus.view-distance.enlarged:
+    view: 8
+    simulation: 2
+  ianus.view-distance.big:
+    view: 10
+    simulation: 2
+  ianus.view-distance.large:
+    view: 12
+    simulation: 2
+  ianus.view-distance.huge:
+    view: 16
+    simulation: 2
